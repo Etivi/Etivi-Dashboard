@@ -1,0 +1,53 @@
+/************************************
+    Fuentes
+*************************************/
+
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  max-width: 160px;
+  height: auto;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+/* Definir estilos de encabezados */
+h2, h3, h4, h5, h6 {
+  font-weight: 600; /* Peso de fuente en negrita */
+}
+
+h1 {
+  font-size: 20px; /* Tamaño de fuente para encabezado H1 */
+}
+
+h2 {
+  font-size: 17px; /* Tamaño de fuente para encabezado H2 */
+}
+
+h3 {
+  font-size: 16px; /* Tamaño de fuente para encabezado H3 */
+}
+
+h4 {
+  font-size: 15px; /* Tamaño de fuente para encabezado H4 */
+}
+
+h5 {
+  font-size: 14px; /* Tamaño de fuente para encabezado H5 */
+}
+
+h6 {
+  font-size: 13px; /* Tamaño de fuente para encabezado H6 */
+}
+
+/* Definir estilos de párrafos */
+p {
+  font-weight: 400; /* Peso de fuente normal */
+  font-size: 13px; /* Tamaño de fuente para párrafos */
+}
+

@@ -1,0 +1,149 @@
+body {
+  padding: 15px;
+  background-color: #f2f6f7;
+}
+
+/************************************
+     Resolucion de pantallas 
+
+        xs: 0,
+        sm: 576px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px,
+        xxl: 1400px 
+
+  ***********************************/
+
+/************************************
+    Iconos y listas
+*************************************/
+
+.fa-square-check {
+  padding-right: 10px;
+  color: #2f8f9d;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+}
+
+/************************************
+      Colores de la marca
+  *************************************/
+
+.color-primary {
+  color: #2f8f9d;
+}
+
+.color-secondary {
+  color: #3bacb6;
+}
+
+.bg-primary {
+  background-color: #2f8f9d; /* Color Principal */
+}
+
+.bg-secundary {
+  background-color: #464255;
+}
+
+.bg-primary-selection {
+  background-color: #dae9ed;
+}
+
+.bg-navegacion {
+  background-color: #f8fafb;
+}
+
+.bg-fondo {
+  background-color: #f2f6f7;
+}
+
+.bg-transparent-lineal-menu {
+  background-color: #fdfefe;
+}
+
+/************************************
+      Botones
+  *************************************/
+
+.btn-primary {
+  /* Color Principal */
+  background-color: #2f8f9d;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #3bacb6;
+}
+
+.btn-secondary {
+  background-color: #272337;
+  border: none;
+  border-radius: 50px;
+}
+
+.btn-secondary:hover {
+  background-color: #565e64;
+}
+
+/************************************
+      Tarjetas - cards
+  *************************************/
+
+.card {
+  border-radius: 24px;
+  border: none;
+}
+
+/************************************
+      Inputs
+  *************************************/
+
+.form-control {
+  background-color: #eaf2f3;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+}
+
+/************************************
+      Para check box
+  *************************************/
+
+.form-check-input:checked {
+    background-color: #2f8f9d;
+    
+}
+
+/************************************
+      Pagina inicio de sesion
+  *************************************/
+
+.container-logo img {
+  max-width: 200px;
+  width: 100%;
+  
+}
+
+.menu-login {
+  background-image: url(../assets/bg-logo.svg);
+  background-size: contain;
+  background-size: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  max-width: 250px;
+}
+
+.container-text {
+  margin-top: 90px;
+}
+
+.banner-login {
+  background-image: url(../assets/bg-banner-login.svg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+
